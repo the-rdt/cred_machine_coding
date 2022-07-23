@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0160" tests="13" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-07-23T12:04:41" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="blogger tests" timestamp="2022-07-23T12:04:41" tests="13" file="/home/rdt/4abf1369-328c-4aaf-992f-e01583e69dc5/test/test.js" time="0.0160" failures="0">
+    <testcase name="blogger tests Add User successfully" time="0.0020" classname="Add User successfully">
+    </testcase>
+    <testcase name="blogger tests Add User Failure" time="0.0010" classname="Add User Failure">
+    </testcase>
+    <testcase name="blogger tests Add invalid User Failure" time="0.0010" classname="Add invalid User Failure">
+    </testcase>
+    <testcase name="blogger tests Add Blog Success" time="0.0010" classname="Add Blog Success">
+    </testcase>
+    <testcase name="blogger tests Duplicate blog should not be added" time="0.0010" classname="Duplicate blog should not be added">
+    </testcase>
+    <testcase name="blogger tests add invalid blog" time="0.0010" classname="add invalid blog">
+    </testcase>
+    <testcase name="blogger tests follow user sucess" time="0.0010" classname="follow user sucess">
+    </testcase>
+    <testcase name="blogger tests follow user failure" time="0.0010" classname="follow user failure">
+    </testcase>
+    <testcase name="blogger tests multiple follow user" time="0.0010" classname="multiple follow user">
+    </testcase>
+    <testcase name="blogger tests user feed invalid user" time="0.0010" classname="user feed invalid user">
+    </testcase>
+    <testcase name="blogger tests user feed zero following user" time="0.0010" classname="user feed zero following user">
+    </testcase>
+    <testcase name="blogger tests User Feed Non Zero Following Zero Blogs User" time="0.0010" classname="User Feed Non Zero Following Zero Blogs User">
+    </testcase>
+    <testcase name="blogger tests User Feed Non Zero Following Non Zero Blogs User" time="0.0030" classname="User Feed Non Zero Following Non Zero Blogs User">
+    </testcase>
+  </testsuite>
+</testsuites>
